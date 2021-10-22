@@ -1,5 +1,5 @@
 # Question-3
-Write a program that create spiral matrix of given size;
+Write a program that create spiral matrix of given size.
 
 Enter dimensions of the matrix: 10
 
