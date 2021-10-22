@@ -1,8 +1,8 @@
 # Problems
 
 
-#1 Allocate words in buffer
+Q1 Allocate words in buffer
 
-#2 AB check possible
+Q2 AB check possible
 
-#3 Spiral matrix
+Q3 Spiral matrix
